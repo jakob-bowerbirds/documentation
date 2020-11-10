@@ -1,5 +1,5 @@
 ---
-description: Her kommer der en beskrivelse
+description: Her kommer der en beskrivelse her er endnu en test
 sidebar: docs
 prev: "/docs/installation/"
 next: "/docs/settings/"
