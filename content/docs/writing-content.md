@@ -1,10 +1,10 @@
 ---
-description: ''
-sidebar: 'docs'
-prev: '/docs/installation/'
-next: '/docs/settings/'
----
+description: Her kommer der en beskrivelse
+sidebar: docs
+prev: "/docs/installation/"
+next: "/docs/settings/"
 
+---
 # Writing Content
 
 After installing, head to `content/docs`. This is where all the documentation for this theme is located.
