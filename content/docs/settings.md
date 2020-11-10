@@ -1,10 +1,10 @@
 ---
 description: ''
-sidebar: 'docs'
-prev: '/docs/deploying/'
-next: '/docs/sidebar/'
----
+sidebar: docs
+prev: "/docs/deploying/"
+next: "/docs/sidebar/"
 
+---
 # Settings
 
 When creating your markdown files, there is some configuration to do, if we want to utilise all features of this starter theme.
@@ -72,6 +72,8 @@ By default these are defined in your `.env` file but can be hardcoded if you wan
 ## On this Page
 
 On the right side of the page is an overview of every headline of the current viewed page. Fortunately this list is auto-generated and you don't need to do anything.
+
+![](/uploads/8ab29fb9-28e4-4e10-868e-2d990801e561.jpeg)
 
 ## Google Analytics
 
